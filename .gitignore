@@ -1,0 +1,4 @@
+node_modules
+bgg-15m-reviews.csv
+bgg.sql
+.env
